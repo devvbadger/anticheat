@@ -2,6 +2,9 @@
 
 A FiveM Anti-Cheat created for my servers, this is not a hard working anti-cheat. The features of this is only kick, anti-blabla, etc.
 
+- This is an open-source. Modify all you want.
+- Want to contribute to this project? DM Me.
+  
 **Features**
 
 ✅ Anti-Godmode – Detects players with health above 200 and kicks them
