@@ -33,6 +33,23 @@ A FiveM Anti-Cheat created for my servers, this is not a hard working anti-cheat
 ❌ No Discord Logs (Does not log kicks or detections to Discord)
 
 **Future Plans:**
+- permanent global ban system
+
+- anti aimbot
+
+- anti weapon spawn
+
+- anti money spawn
+
+- advanced spawn detection (peds, objects, vehicles)
+
+- admin review system for bans
+
+- discord logs integration
+
+- anti-rapid fire
+
+- whitelist system for admins, and other jobs
 
 **Dependencies**
 - None.
