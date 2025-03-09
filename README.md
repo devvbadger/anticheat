@@ -6,7 +6,7 @@ A FiveM Anti-Cheat created for my servers, this is not a hard working anti-cheat
 - Want to contribute to this project? DM Me.
 - Plan to implement more events, more features to this. Wait for further updates.
   
-**Features**
+**Features:**
 
 ✅ Anti-Godmode – Detects players with health above 200 and kicks them
 
@@ -20,7 +20,7 @@ A FiveM Anti-Cheat created for my servers, this is not a hard working anti-cheat
 
 ✅ Optimized for Performance – Uses event-based detection instead of constant loops
 
-**Not Included**
+**Not Included:**
 
 ❌ No Aimbot Detection (Does not check for accuracy cheats)
 
@@ -31,6 +31,8 @@ A FiveM Anti-Cheat created for my servers, this is not a hard working anti-cheat
 ❌ No Admin Review for False Bans (Immediate kicks, no warnings)
 
 ❌ No Discord Logs (Does not log kicks or detections to Discord)
+
+**Future Plans:**
 
 **Dependencies**
 - None.
