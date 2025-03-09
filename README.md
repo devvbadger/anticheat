@@ -1,4 +1,4 @@
-**FiveM Light-Weight Anti-Cheat**
+# FiveM Light-Weight Anti-Cheat
 
 A FiveM Anti-Cheat created for my servers, this is not a hard working anti-cheat. The features of this is only kick, anti-blabla, etc.
 
