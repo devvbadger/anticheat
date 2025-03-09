@@ -17,9 +17,13 @@ A FiveM Anti-Cheat created for my servers, this is not a hard working anti-cheat
 
 **Not Included**
 ❌ No Aimbot Detection (Does not check for accuracy cheats)
+
 ❌ No Weapon / Money Spawn Protection (Only entity spawns are blocked)
+
 ❌ No Permanent Ban System (No MySQL or JSON file bans)
+
 ❌ No Admin Review for False Bans (Immediate kicks, no warnings)
+
 ❌ No Discord Logs (Does not log kicks or detections to Discord)
 
 **Dependencies**
