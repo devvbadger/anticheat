@@ -4,10 +4,15 @@ A FiveM Anti-Cheat created for my servers, this is not a hard working anti-cheat
 
 **Features**
 ✅ Anti-Godmode – Detects players with health above 200 and kicks them
+
 ✅ Anti-Speed Hack – Detects players moving faster than a set speed and kicks them
+
 ✅ Anti-Spawn Protection – Detects unauthorized entity spawns (vehicles, objects, NPCs) and deletes them
+
 ✅ Instant Kicks – No database or permanent bans, only immediate kicks
+
 ✅ No Admin Review Needed – Automatically enforces kicks when cheats are detected
+
 ✅ Optimized for Performance – Uses event-based detection instead of constant loops
 
 **Not Included**
