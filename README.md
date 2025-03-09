@@ -4,6 +4,7 @@ A FiveM Anti-Cheat created for my servers, this is not a hard working anti-cheat
 
 - This is an open-source. Modify all you want.
 - Want to contribute to this project? DM Me.
+- Plan to implement more events, more features to this. Wait for further updates.
   
 **Features**
 
