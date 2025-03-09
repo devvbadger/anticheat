@@ -20,36 +20,20 @@ A FiveM Anti-Cheat created for my servers, this is not a hard working anti-cheat
 
 ✅ Optimized for Performance – Uses event-based detection instead of constant loops
 
-**Not Included:**
-
-❌ No Aimbot Detection (Does not check for accuracy cheats)
-
-❌ No Weapon / Money Spawn Protection (Only entity spawns are blocked)
-
-❌ No Permanent Ban System (No MySQL or JSON file bans)
-
-❌ No Admin Review for False Bans (Immediate kicks, no warnings)
-
-❌ No Discord Logs (Does not log kicks or detections to Discord)
-
 **Future Plans:**
-- permanent global ban system
+- Permanent Global Ban System
 
-- anti aimbot
+- Anti Aimbot, Anti Weapon Spawn, Anti Money Spawn
 
-- anti weapon spawn
+- Advanced Spawn Detection (Peds, Objects, Vehicles)
 
-- anti money spawn
+- Admin Review System For Bans
 
-- advanced spawn detection (peds, objects, vehicles)
+- Discord Logs Integration
 
-- admin review system for bans
+- Anti-Rapid Fire
 
-- discord logs integration
-
-- anti-rapid fire
-
-- whitelist system for admins, and other jobs
+- Whitelist System For Admins, And Other Jobs
 
 **Dependencies**
 - None.
